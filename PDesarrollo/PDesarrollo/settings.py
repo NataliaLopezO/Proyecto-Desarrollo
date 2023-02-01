@@ -28,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-8qkux!o$*@x(=d&)kdn*53wf=2=0#!22+^f5+9#*2m#vv9-a6*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = FALSE
 
 
 #PAYPAL SETTINGS
