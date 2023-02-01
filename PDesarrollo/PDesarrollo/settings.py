@@ -90,10 +90,10 @@ WSGI_APPLICATION = 'PDesarrollo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'xkbjexty',
-        'USER': 'xkbjexty',
-        'PASSWORD': 'DI3oFYBNh3lKOETTEYQ-2TWwDFFnGy1l',
-        'HOST': 'hattie.db.elephantsql.com',
+        'NAME': 'pg4e_5ae04d7e64',
+        'USER': 'pg4e_5ae04d7e64',
+        'PASSWORD': 'pg4e_p_9f85435a74bbb53',
+        'HOST': 'pg.pg4e.com',
         'PORT': '5432', 
     }
 }
