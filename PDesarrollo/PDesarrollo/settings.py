@@ -90,7 +90,7 @@ WSGI_APPLICATION = 'PDesarrollo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'usmelectricabd',
+        'NAME': 'xkbjexty',
         'USER': 'xkbjexty',
         'PASSWORD': 'DI3oFYBNh3lKOETTEYQ-2TWwDFFnGy1l',
         'HOST': 'hattie.db.elephantsql.com',
