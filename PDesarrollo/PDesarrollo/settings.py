@@ -91,9 +91,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'usmelectricabd',
-        'USER': 'postgres',
-        'PASSWORD': 'mysecretpassword',
-        'HOST': 'localhost',
+        'USER': 'xkbjexty',
+        'PASSWORD': 'DI3oFYBNh3lKOETTEYQ-2TWwDFFnGy1l',
+        'HOST': 'hattie.db.elephantsql.com',
         'PORT': '5432', 
     }
 }
