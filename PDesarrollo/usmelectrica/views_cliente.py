@@ -60,8 +60,7 @@ def pago(request, servicio_id):
 
         #Se añade a pago
         pago= Pago(
-                            factura_id_id= factura.last().id, 
-                            operador_id_id= 1004,  
+                            factura_id_id= factura.last().id,  
                             fecha_pago= datetime.datetime.now().date(), 
                             forma_pago= "Virtual", 
                             total_pago= total_pagar_facturas
