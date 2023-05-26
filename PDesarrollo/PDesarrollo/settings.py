@@ -35,7 +35,7 @@ DEBUG = False
 PAYPAL_TEST= True
 PAYPAL_RECEIVER_EMAIL= "sandbox@gmail.com"
 
-ALLOWED_HOSTS = ['natalialopez.pythonanywhere.com']
+ALLOWED_HOSTS = ['natalialopez.pythonanywhere.com', 'http://localhost:8080/']
 
 SECURE_CROSS_ORIGIN_OPENER_POLICY='same-origin-allow-popups'
 
